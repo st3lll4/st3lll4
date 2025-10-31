@@ -16,7 +16,7 @@ I'm a software developer, creative problem-solver, and a silly goofy girl just t
 ## 🌸 Fun projects (some of them private)
 
 - Built a [Bingo](https://bingo-ruby-omega.vercel.app/) to be played in our ~6h lectures to keep us alert and the lecturer happy 
-- Coded [my own version of spring mvc](https://github.com/st3lll4/mylittlespring), to understand the fundamentals better
+- Coded [a mini Spring](https://github.com/st3lll4/mylittlespring), to understand the fundamentals better
 - Currently trying to work on KardPop, a photocard trading and selling platform, but work keeps me busy, not gonna lie
 
 ---
