@@ -8,7 +8,8 @@ I'm a software developer, creative problem-solver, and a silly goofy girl just t
 ## 🌸 About Me
 
 - Art school dropout turned software engineer (creativity + logic)
-- Currently a Junior at Telia Eesti, bringing the slay into digital analytics across our systems
+- Currently a Junior at Telia Eesti, bringing the slay into digital analytics across our systems. My stats:
+- <img width="929" height="229" alt="image" src="https://github.com/user-attachments/assets/08478759-a81f-4426-9842-2ff707488e00" />
 - Enjoy writing backend most (Java <3), but as I have like 3/4 of a design degree, I have a passion for frontend and a love-hate relationship with Javascript
 
 ---
